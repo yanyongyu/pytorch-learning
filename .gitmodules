@@ -1,0 +1,3 @@
+[submodule "d2l-zh-pytorch"]
+	path = d2l-zh-pytorch
+	url = git@github.com:d2l-ai/d2l-zh-pytorch-sagemaker.git
